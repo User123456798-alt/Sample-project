@@ -8,6 +8,6 @@ public class App {
 
     public static void main(String[] args) {
         Student a = new Student("joe",3.5,"math");
-        System.out.println(a.toString());
+        System.out.println(a);
     }
 }
